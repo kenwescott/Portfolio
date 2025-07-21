@@ -191,12 +191,20 @@ header{
     border-radius: 10px;
 }
 
-h3{
+h2,h3{
     font-size: 3rem;
     text-transform: uppercase;
     font-weight: 800;
     letter-spacing: 1px;
-    margin-top: 50px;
+    margin-top: 30px;
+    font-family:"Quackey Regular";
+}
+h4,h6{
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 1px;
+    margin-top: 10px;
     font-family:"Quackey Regular";
 }
 .hero-img{
